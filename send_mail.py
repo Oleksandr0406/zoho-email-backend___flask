@@ -15,9 +15,9 @@ app = Flask(__name__)
 # Configure this.
 FROM_EMAIL_ADDR = 'ihorkurylo5@zohomail.com'
 TO_EMAIL_ADDR = 'andriilohvin@gmail.com'
-REDIRECT_URL = 'http://95.164.44.248:5000/callback/'
-CLIENT_ID = '1000.735XB81YY6IYR5Z8J84DTIMP9JTMLK'
-CLIENT_SECRET = '2a86f1976f183e11cd98934a3a1a13ce2383cb1d4a'
+REDIRECT_URL = 'http://192.168.148.37:5000/callback/'
+CLIENT_ID = '1000.BWV591EOQJX8AUJS22NUGIJGIMXULO'
+CLIENT_SECRET = '00bc90f92fe8ec91904acb23b285f0b7602a9893f8'
 BASE_OAUTH_API_URL = 'https://accounts.zoho.com/'
 BASE_API_URL = 'https://mail.zoho.com/api/'
 
